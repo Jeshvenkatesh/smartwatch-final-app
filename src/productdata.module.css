@@ -1,0 +1,39 @@
+.productImage{
+    width:100%;
+    max-width:80px;
+    border:2px solid transparent;
+    border-radius:8px;
+    margin-right:12px;
+    cursor:pointer;
+  }
+  .selectedProductImage{
+    border:2px solid teal;
+  
+  }
+  .featureItem{
+    min-width:80px;
+    border-radius:8px;
+    border:0;
+    padding:12px 24px;
+    margin-right:12px;
+    cursor:pointer;
+    font-size:16px;
+    box-sizing:content-box;
+  }
+  .selectedFeatureItem{
+    color:white;
+    background-color:gray;
+  }
+  .primaryButton{
+    color:white;
+    background-color:teal;
+    font-size:20px;
+    border-radius:8px;
+    border:0;
+    padding:12px 24px;
+    margin-top:20px;
+  }
+  .productData{
+    width:100%;
+  }
+  

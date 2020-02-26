@@ -1,0 +1,27 @@
+.topbar{
+  width:100%;
+  background-color: #2a2a44;
+  text-align:center;
+  position:fixed;
+  top:0;
+  left:0;
+
+}
+.topbar > img{
+  width:100px;
+
+}
+
+.mainContainer{
+  padding:4% 12%;
+  margin-top:32px;
+  box-sizing:border-box;
+  display:flex;
+  align-items:center;
+}
+.productPreview{
+  width:50%;
+}
+.productData{
+  width:50%;
+}
